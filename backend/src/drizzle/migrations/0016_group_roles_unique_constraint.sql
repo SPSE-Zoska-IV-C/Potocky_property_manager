@@ -1,0 +1,2 @@
+-- Add unique constraint for groupId and userId combination
+ALTER TABLE "group_member_roles" ADD CONSTRAINT "group_member_roles_groupId_userId_unique" UNIQUE("groupId", "userId"); 

@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "isWebAdmin" boolean DEFAULT false NOT NULL;

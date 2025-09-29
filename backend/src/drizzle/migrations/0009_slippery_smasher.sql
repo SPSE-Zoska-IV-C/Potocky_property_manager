@@ -1,0 +1,1 @@
+ALTER TABLE "users" ALTER COLUMN "teamId" SET DEFAULT '1';

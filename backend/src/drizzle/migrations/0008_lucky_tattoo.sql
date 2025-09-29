@@ -1,0 +1,1 @@
+ALTER TABLE "teams" ALTER COLUMN "name" SET DEFAULT 'x';

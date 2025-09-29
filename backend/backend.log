@@ -1,0 +1,10 @@
+
+> backend@1.0.0 dev
+> tsx watch src/index.ts
+
+
+
+property-manager | http://0.0.0.0:1302 | 2025-01-14T19:00:07.629Z | pid: 9641
+
+
+8:00:18 PM [tsx] Previous process hasn't exited yet. Force killing...

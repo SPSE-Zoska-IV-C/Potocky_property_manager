@@ -1,0 +1,1 @@
+ALTER TABLE "property" ALTER COLUMN "teamId" SET DEFAULT '1';

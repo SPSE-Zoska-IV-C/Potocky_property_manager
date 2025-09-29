@@ -1,0 +1,3 @@
+ALTER TABLE "users" DROP COLUMN IF EXISTS "hasTrial";
+ALTER TABLE "users" DROP COLUMN IF EXISTS "alreadyUsedTrial";
+ALTER TABLE "users" DROP COLUMN IF EXISTS "trialEndsAt"; 

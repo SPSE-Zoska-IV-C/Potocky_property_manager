@@ -1,0 +1,2 @@
+ALTER TABLE "role" ALTER COLUMN "id" DROP DEFAULT;--> statement-breakpoint
+ALTER TABLE "role" ALTER COLUMN "name" DROP DEFAULT;
